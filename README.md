@@ -1,6 +1,8 @@
 [![serverless](http://public.serverless.com/badges/v3.svg)](http://www.serverless.com) [![MIT licensed](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/hyperium/hyper/master/LICENSE)
 
 # Premise
+SALSAMOBI updates:  The original project is no longer maintained but the current serverless version now generates an error with the documentation field in the yml file. There is a clear fix and PR on the original project but no one to merge it. So, I forked the project and brought in the PR.
+
 This project is forked from [serverless-aws-documentation](https://github.com/deliveryhero/serverless-aws-documentation) and it is supposed to fix a reported [provider integration issue](https://github.com/deliveryhero/serverless-aws-documentation/issues/175).
 We fixed the issue and republished the package under a new name. Our plan is to maintain the package in the future.
 
